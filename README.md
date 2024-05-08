@@ -4,8 +4,6 @@
 
 Body Mass Index (BMI) serves as a crucial numerical measure derived from an individual's weight and height, widely employed for assessing whether one maintains a healthy body weight relative to their height. Computed by dividing an individual's weight in kilograms by the square of their height in meters (BMI = weight (kg) / height^2 (m^2)), BMI serves as a fundamental screening tool for health evaluation.
 
-#### Tool
-- Python(Jupyter Notebook)
 
 #### BMI assists in categorizing individuals into various weight classes:
 
